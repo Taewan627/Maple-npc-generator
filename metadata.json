@@ -1,0 +1,5 @@
+{
+  "name": "메이플스토리 NPC 성격 대화 생성기 (AI Engineer Portfolio)",
+  "description": "Big Five 성격 모델과 RAG 아키텍처를 활용한 메이플스토리 NPC 페르소나 시뮬레이터. 프롬프트 엔지니어링 및 컨텍스트 주입 기술을 시연합니다.",
+  "requestFramePermissions": []
+}
