@@ -238,7 +238,7 @@ function MainApp() {
             <h1 className="text-5xl lg:text-6xl font-black tracking-tighter text-persona-dark-text">
               Maple<span className="text-persona-panel">Persona</span>
             </h1>
-            <p className="text-persona-dark-text/60 mt-3 font-medium text-lg">AI 엔지니어 포트폴리오: RAG & 성격 모델링</p>
+            <p className="text-persona-dark-text/60 mt-3 font-medium text-lg">AI NPC RAG & 성격 모델링</p>
           </div>
           <button 
             onClick={resetAll}
